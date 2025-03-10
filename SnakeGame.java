@@ -1,7 +1,7 @@
 /*May 22, 2023
 **/
 
-package snakegame;
+package Snake-Game;
 
 import javax.swing.JFrame;
 
