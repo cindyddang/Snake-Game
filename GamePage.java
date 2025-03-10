@@ -1,4 +1,4 @@
-package snakegame;
+package Snake-Game;
 
 import java.awt.Color;
 import java.awt.Dimension;
